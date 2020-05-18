@@ -11,5 +11,4 @@ public class Room {
         this.restRoom = restRoom;
     }
 
-    
 }
